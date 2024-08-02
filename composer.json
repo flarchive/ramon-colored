@@ -1,0 +1,39 @@
+{
+  "name": "ramon/colored",
+  "description": "Uma extensão para colorir elementos com base nas cores das tags.",
+  "keywords": [
+    "flarum"
+  ],
+  "type": "flarum-extension",
+  "license": "MIT",
+  "version": "0.1.0-beta",
+  "require": {
+    "flarum/core": "^1.0"
+  },
+  "authors": [
+    {
+      "name": "Ramon Guilherme",
+      "email": "ramon@ramonguilherme.com.br",
+      "role": "Developer",
+      "homepage": "https://www.ramonguilherme.com.br"
+    }
+  ],
+  "autoload": {
+    "psr-4": {
+      "Ramon\\Colored\\": "src/"
+    }
+  },
+  "extra": {
+    "flarum-extension": {
+      "title": "Colored",
+      "icon": {
+        "name": "",
+        "backgroundColor": "",
+        "color": ""
+      }
+    },
+    "flagrow": {
+      "discuss": ""
+    }
+  }
+}
