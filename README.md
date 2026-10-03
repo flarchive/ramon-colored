@@ -2,13 +2,20 @@
 
 > **Read-only archive of released versions of ramon/colored.** Not for installation: use [Packagist](https://packagist.org/packages/ramon/colored) or the [upstream repository](https://github.com/ram0ng1/colored).
 
-**0** versions archived · Latest: [`1.3.1`](https://github.com/flarchive/ramon-colored/tree/archive/v1.3.1) · License: `MIT` · Flarum: `^2.0.0`
+**8** versions archived · Latest: [`1.3.1`](https://github.com/flarchive/ramon-colored/tree/archive/v1.3.1) · License: `MIT` · Flarum: `^2.0.0`
 
 ## Archived Versions
 
 | Version | Released | Flarum | Source |
 |---|---|---|---|
-| — | — | — | — |
+| `0.1.0` | 2024-08-03 | `^1.7.1` | [Browse](https://github.com/flarchive/ramon-colored/tree/archive/v0.1.0) |
+| `0.1.0-beta` | 2024-08-02 | `^1.0` | [Browse](https://github.com/flarchive/ramon-colored/tree/archive/v0.1.0-beta) |
+| `1.1.0` | 2025-01-19 | `^1.7.0` | [Browse](https://github.com/flarchive/ramon-colored/tree/archive/v1.1.0) |
+| `1.1.1` | 2025-01-19 | `^1.7.0` | [Browse](https://github.com/flarchive/ramon-colored/tree/archive/v1.1.1) |
+| `1.2.0` | 2025-11-22 | `^1.7.0` | [Browse](https://github.com/flarchive/ramon-colored/tree/archive/v1.2.0) |
+| `1.2.1` | 2026-05-10 | `^1.8.0` | [Browse](https://github.com/flarchive/ramon-colored/tree/archive/v1.2.1) |
+| `1.3.0` | 2026-03-13 | `^2.0.0` | [Browse](https://github.com/flarchive/ramon-colored/tree/archive/v1.3.0) |
+| `1.3.1` | 2026-03-16 | `^2.0.0` | [Browse](https://github.com/flarchive/ramon-colored/tree/archive/v1.3.1) |
 
 Catalog entry: [packages/ramon-colored.json](https://github.com/flarchive/archive-index/blob/main/packages/ramon-colored.json)
 
